@@ -13,6 +13,7 @@
 
 ### 🔬Interest research
 - Data Converter
+- Analog Circuits Design
 - Artificial intelligence signal processing
 - Brain Computer Interface & Brain Machine Interface
 
