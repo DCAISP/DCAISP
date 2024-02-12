@@ -1,9 +1,15 @@
-**🧑🏻‍💻Mark / 이재훈**
+**Mark / 이재훈**
 ====================
 
 
-### 📚Major
+### 🏫Major
 - Information and communication engineering & Electrical and electronic engineering
+
+### 💼Project Experience
+- Design of analog-to-digital converters using diodes
+- Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
+- Integrated Circuit Layout Design
+
 
 ### 🔬Interest research
 - Data Converter
