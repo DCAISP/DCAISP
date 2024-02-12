@@ -14,7 +14,9 @@
 ### 🔬Interest research
 - Data Converter
 - Analog Circuits Design
-- Artificial intelligence signal processing
+- EDA tool & ORCAD Design
+- Deep learning & Machine learning
+- Digital Signal Processing
 - Brain Computer Interface & Brain Machine Interface
 
 ### 💻Tool💻
