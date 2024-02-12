@@ -14,4 +14,5 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MATLAB-FF6600?style=plastic&logo=Atlassian&logoColor=blue"/>
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Verilog-White style=plastic&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-green?style=flat&logo=AMD&logoColor=ED1C24"/>
+
