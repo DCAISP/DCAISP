@@ -6,7 +6,7 @@
 - Information and communication engineering & Electrical and electronic engineering
 
 ### Academic Experience
-- Undergraduate Internship - Intergrated Circuit lab of Seoul National University
+- Undergraduate Internship - Intergrated Circuit lab of Seoul National University (2024.02, 2024.07~08)
 
 ### 💼Project Experience
 - Design of analog-to-digital converters using diodes
