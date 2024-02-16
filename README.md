@@ -5,6 +5,9 @@
 ### 🏫Major
 - Information and communication engineering & Electrical and electronic engineering
 
+### Academic Experience
+- Undergraduate Internship - Intergrated Circuit lab of Seoul National University
+
 ### 💼Project Experience
 - Design of analog-to-digital converters using diodes
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
