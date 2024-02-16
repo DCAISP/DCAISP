@@ -3,7 +3,7 @@
 
 
 ### 🏫Major
-- Information and communication engineering & Electrical and electronic engineering (2020.03 ~
+- Information and Communication engineering & Electrical and Electronic Engineering (2020.03 ~
 
 ### 👨🏽‍💻Academic Experience
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.01 ~ 02)  
@@ -13,8 +13,7 @@
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
 - Logic Device & Adder Layout Design
 
-
-### 🔬Interest research
+### 🔬Interest Research
 - Data Converter
 - Analog & Mixed Integrated Circuits Design
 - Deep learning & Machine learning
