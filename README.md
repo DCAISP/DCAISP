@@ -18,8 +18,7 @@
 - Data Converter
 - Analog & Mixed Integrated Circuits Design
 - Deep learning & Machine learning
-- Digital Signal Processing
-- Brain Computer Interface & Brain Machine Interface
+- Digital & Deep learning Signal Processing
 
 ### 💻Tool💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
