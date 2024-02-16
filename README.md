@@ -3,7 +3,7 @@
 
 
 ### 🏫Major
-- Information and communication engineering & Electrical and electronic engineering
+- Information and communication engineering & Electrical and electronic engineering (2020.03 ~
 
 ### Academic Experience
 - Undergraduate Internship - Intergrated Circuit lab of Seoul National University (2024.02, 2024.07~08)
