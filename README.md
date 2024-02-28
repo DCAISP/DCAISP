@@ -11,7 +11,7 @@
 ### 💼Project Experience
 - Design of analog-to-digital converters using diodes
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
-- Logic Device & Adder Layout Design
+- Logic Device & Adder (Integrated Circuit) Layout Design
 
 ### 🔬Interest Research
 - Data Converter
