@@ -18,7 +18,7 @@
 - Analog & Mixed Integrated Circuits Design
 - Deep learning & Machine learning
 - Digital & Deep learning Signal Processing
-- BMI & HMI
+- BMI & BCI
 
 ### 💻Tool💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
