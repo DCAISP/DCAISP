@@ -11,7 +11,7 @@
 ### 💼Project Experience
 - Design of analog-to-digital converters using diodes
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
-- Logic Device & Adder (Integrated Circuit) Layout Design
+- Logic Circuit (Integrated Circuit) Layout Design
 - Brain Wave Signal Processing (~ing) -> sensor development
 
 ### 🔬Interest Research
