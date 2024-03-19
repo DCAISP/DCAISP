@@ -12,13 +12,13 @@
 - Design of analog-to-digital converters using diodes
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
 - Logic Device & Adder (Integrated Circuit) Layout Design
+- Brain Wave Signal Processing (~ing)
 
 ### 🔬Interest Research
 - Data Converter
 - Analog & Mixed Integrated Circuits Design
-- Deep learning & Machine learning
-- Digital & Deep learning Signal Processing
-- BMI & BCI
+- Digital Signal Processing
+- Brain Computer Interface & Brain Machine Interface
 
 ### 💻Tool💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
