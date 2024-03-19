@@ -6,6 +6,7 @@
 - Physics & Electrical and Electronic Engineering (2020.03 ~
 
 ### 👨🏽‍💻Academic Experience
+- Semiconductor processing practice (2024.01)
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.01 ~ 02)  
 
 ### 💼Project Experience
