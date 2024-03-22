@@ -14,6 +14,7 @@
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
 - Logic Circuit (Integrated Circuit) Layout Design
 - Brain Wave Signal Processing (~ing) -> sensor development
+- Analog Digital Converter of Analog Circuit Design
 
 ### 🔬Interest Research
 - Data Converter
