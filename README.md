@@ -20,8 +20,8 @@
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
-- Analog & Mixed Integrated Circuits Design
-- Wireless Communication Circuits Design
+- Analog Circuits Design
+- Mixed Circuits Design
 - Bio Sensor Interface (BMI, BCI)
 
 ### 💻Tool💻
