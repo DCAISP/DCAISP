@@ -16,7 +16,7 @@
 - Integrated Circuit Layout Design with HSPICE
 - Brain Wave Signal Processing (~ing) -> sensor development with PYTHON
 - Digital Circuit Design with Verilog
-- Increase SSD architecture efficiency with C/C++
+- Increase SSD architecture efficiency with C
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
