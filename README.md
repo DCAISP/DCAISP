@@ -8,7 +8,7 @@
 
 ### 👨🏽‍💻Academic Experience
 - Semiconductor processing practice (2024.01)
-- Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02)  
+- Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)  
 
 ### 💼Project Experience
 - Design of analog-to-digital converters using diodes
