@@ -13,7 +13,7 @@
 ### 💼Project Experience
 - Analog Digital Converter of Analog Circuit Design
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
-- Logic Circuit (Integrated Circuit) Layout Design
+- Integrated Circuit Layout Design
 - Brain Wave Signal Processing (~ing) -> sensor development
 - Digital Circuit Design with Verilog
 - Increase SSD architecture efficiency with C/C++
