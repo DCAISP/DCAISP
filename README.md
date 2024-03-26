@@ -11,11 +11,11 @@
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)  
 
 ### 💼Project Experience
-- Design of analog-to-digital converters using diodes
+- Analog Digital Converter of Analog Circuit Design
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET
 - Logic Circuit (Integrated Circuit) Layout Design
 - Brain Wave Signal Processing (~ing) -> sensor development
-- Analog Digital Converter of Analog Circuit Design
+- Digital Circuit Design with Verilog
 - Increase SSD architecture efficiency with C/C++
 
 ### 🔬Interest Research
