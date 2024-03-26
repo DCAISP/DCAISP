@@ -16,6 +16,7 @@
 - Logic Circuit (Integrated Circuit) Layout Design
 - Brain Wave Signal Processing (~ing) -> sensor development
 - Analog Digital Converter of Analog Circuit Design
+- Increase SSD architecture efficiency with C/C++
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
