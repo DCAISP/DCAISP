@@ -14,7 +14,7 @@
 - Analog Digital Converter of Analog Circuit Design with LTSPICE
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET with PSPICE
 - Integrated Circuit Layout Design with HSPICE
-- Brain Wave Signal Processing (~ing) -> sensor development
+- Brain Wave Signal Processing (~ing) -> sensor development with PYTHON
 - Digital Circuit Design with Verilog
 - Increase SSD architecture efficiency with C/C++
 
