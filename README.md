@@ -21,7 +21,7 @@
 - Data Converter (ADC, DAC)
 - Analog & Mixed Integrated Circuits Design
 - Wireless Communication Circuits Design
-- Bio Sensor Interface
+- Bio Sensor Interface (BMI, BCI)
 
 ### 💻Tool💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
