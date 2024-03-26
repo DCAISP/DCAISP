@@ -4,7 +4,7 @@
 
 ### 🏫Major
 - Physics & Electrical and Electronic Engineering (2020.03 ~
-- GPA 4.14/4.3
+- GPA 4.12/4.3
 
 ### 👨🏽‍💻Academic Experience
 - Semiconductor processing practice (2024.01)
