@@ -18,10 +18,10 @@
 - Analog Digital Converter of Analog Circuit Design
 
 ### 🔬Interest Research
-- Data Converter
+- Data Converter (ADC, DAC)
 - Analog & Mixed Integrated Circuits Design
-- Digital Signal Processing
-- Brain Computer Interface & Brain Machine Interface
+- Wireless Communication Circuits Design
+- Bio Sensor Interface
 
 ### 💻Tool💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
