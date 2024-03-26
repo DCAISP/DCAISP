@@ -7,7 +7,7 @@
 - GPA 4.12/4.3
 
 ### 👨🏽‍💻Academic Experience
-- Semiconductor processing practice (2024.01)
+- Semiconductor Eight Fabrication practice (2024.01)
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)  
 
 ### 💼Project Experience
