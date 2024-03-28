@@ -22,7 +22,7 @@
 - Data Converter (ADC, DAC)
 - High Speed Circuit & Interface
 - Analog Circuits Design
-- Chip Interface Design
+- Chip & System Interface Design
 - Bio Sensor Interface (BMI, BCI)
 
 ### 💻Tool💻
