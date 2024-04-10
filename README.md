@@ -9,7 +9,7 @@
 ### 👨🏽‍💻Academic Experience
 - Semiconductor Eight Fabrication practice (2024.01)
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)
-- Ai Medical Data Analysis Contest (2024.04.12)
+- Ai Medical Data Analysis Contest Participate - intel (2024.04.12)
 
 ### 💼Project Experience
 - Analog Circuit & RF Circuit Design with LTSPICE
