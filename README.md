@@ -17,7 +17,8 @@
 - Integrated Circuit Layout Design with HSPICE
 - Brain Wave Signal Processing (~ing) -> sensor development with PYTHON
 - Digital Circuit Design with Verilog
-- Increase SSD architecture efficiency with C 
+- Increase SSD architecture efficiency with C
+- MRI Image Classification Accuracy Improvement
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
