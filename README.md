@@ -18,7 +18,7 @@
 - Brain Wave Signal Processing (~ing) -> sensor development with PYTHON
 - Digital Circuit Design with Verilog
 - Increase SSD architecture efficiency with C
-- MRI Image Classification Accuracy Improvement
+- MRI Image Classification Accuracy Improvement Use to DenseNet201 
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
