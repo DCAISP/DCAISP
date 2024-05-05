@@ -15,10 +15,9 @@
 - Analog Circuit & RF Circuit Design with LTSPICE
 - Optical Receiver Eye Diagram Design and Signal Quality Measurement using MOSFET with PSPICE
 - Integrated Circuit Layout Design with HSPICE
-- Brain Wave Signal Processing (~ing) -> sensor development with PYTHON
 - Digital Circuit Design with Verilog
-- Increase SSD architecture efficiency with C
-- MRI Image Classification Accuracy Improvement Use to DenseNet201 
+- MRI Image Classification Accuracy Improvement Use to DenseNet201
+- Data Analysis Contest (~ing)
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
