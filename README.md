@@ -10,6 +10,7 @@
 - Semiconductor Eight Fabrication practice Presentation Contest 1st in Semiconductor Process Technology Training Institute (2024.01)
 - Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)
 - MRI Image Classification Use to DenseNet201(keras) in Ai Medical Data Analysis Competition 4th of 40 team - intel,G-market (2024.04.12)
+- Weather Big Data Contest (2024.05 ~ing)
 
 ### 💼Project Experience
 - Analog Circuit & RF Circuit Design with LTSPICE
@@ -17,7 +18,6 @@
 - Integrated Circuit Layout Design with HSPICE
 - Digital Circuit Design with Verilog
 - MRI Image Classification Accuracy Improvement Use to DenseNet201
-- Data Analysis Contest (~ing)
 
 ### 🔬Interest Research
 - Data Converter (ADC, DAC)
