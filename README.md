@@ -8,7 +8,7 @@
 
 ### 👨🏽‍💻Academic Experience
 - Semiconductor Eight Fabrication practice Presentation Contest 1st in Semiconductor Process Technology Training Institute (2024.01)
-- Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024.02, 07~)
+- Undergraduate Internship - Lab of Intergrated Circuits Research Group in Seoul National University Dept. ECE (2024 Winter)
 - MRI Image Classification Use to DenseNet201(keras) in Ai Medical Data Analysis Competition 4th of 40 team - intel,G-market (2024.04.12)
 - Undergraduate Intership -Lab of Bound Layer Meteorlogy Environment in Yonsei University Dept. Atmospheric (2024.06 ~)
 
